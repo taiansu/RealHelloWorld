@@ -5,7 +5,7 @@ locale: zh_TW
 description: The baby raising guide for geek
 logo:
 search: true
-url:
+url: /RealHelloWorld
 
 
 # Jekyll configuration
