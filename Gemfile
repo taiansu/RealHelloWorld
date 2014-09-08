@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
-ruby "2.1.2"
 
-gem "jekyll", "~> 2.3.0"
-gem "jekyll-assets"
+gem 'jekyll'
+gem 'jekyll-sitemap'
+gem 'octopress', '~> 3.0.0.rc.12'
 
+group :test do
+  gem 'html-proofer'
+end

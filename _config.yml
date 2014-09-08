@@ -1,9 +1,53 @@
-name: Real Hello World
-baseurl: /
+# Site wide configuration
+
+title: RealHelloWorld
+locale: zh_TW
 description: The baby raising guide for geek
+logo:
+search: true
+url:
 
-permalink: /:year-:month-:day/:title/
-paginate: 15
-highlight: pygments
 
-exclude: ['README.md']
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: taiansu
+  avatar: bio-photo.jpg
+  email: taiansu@gmail.com
+  disqus-shortname:
+  twitter: #taiansu
+  facebook: #username
+  github: #taiansu
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
