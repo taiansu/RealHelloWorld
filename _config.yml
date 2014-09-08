@@ -1,0 +1,9 @@
+name: Real Hello World
+baseurl: /
+description: The baby raising guide for geek
+
+permalink: /:year-:month-:day/:title/
+paginate: 15
+highlight: pygments
+
+exclude: ['README.md']
