@@ -1,24 +1,10 @@
-Merlot
-======
+# Don't Panic
 
-Merlot is a fancy theme for [Jekyll](http://jekyllrb.com/), adapted from the [GitHub Pages theme](https://github.com/cameronmcefee/merlot) of the same name. I used the [Solar theme](https://github.com/redwallhp/solar-theme-jekyll.git) as a guide to convert the GitHub Pages theme into a more general Jekyll one (in that I essentially just merged the two projects!).
+你發現你的另一半懷孕了，而你們打算把這孩子生下來。在開心的下一瞬間襲來的是巨大的不安、疑惑與擔憂。接下來會發生哪些事？你有哪些該準備的？你有什麼該知道的？更重要的，**你要怎樣才能幫上忙？**
 
-Try it out [here](http://ZedThree.github.io/merlot-theme-jekyll)!
+ 首先，你要做的是：__深呼吸，先冷靜下來__。
 
-![screenshot](http://f.cl.ly/items/0Z061j1n293L3I1X350j/Screen%20Shot%202012-04-02%20at%2011.24.15%20AM.png)
+這是 [Kenneth Lee](https://github.com/cyanglee) 的 IDEA。想把我們透過朋友、長輩及醫生所獲得的各種知識及資訊來源整理記錄下來，在不帶任何利益考量的前題下分享給社群來協作。在少子化的情況下，我們能藉此互相分享所知，一起成長。
 
+ 恭喜，加油啦。
 
-Installation
---------------
-
-There are two ways to use Solar. You can either clone-and-go, copying the repository and tweaking the contents to taste, or you can cherry-pick the files you want and integrate them into an existing Jekyll instance.
-
-If you're starting a new blog, you want to clone-and-go. Just `git clone https://github.com/ZedThree/merlot-theme-jekyll.git`, make any changes you want to the template, pages or `_config.yml` and start blogging with Jekyll. Easy.
-
-If you're wanting to replace the theme of an existing Jekyll blog, either option should work. If you want to replace files individually, the files and directories you want to make sure to copy are:
-
-1. `_layouts`
-2. `assets`
-3. `index.html`
-
-You'll also want to compare Merlot's `_config.yml` with your own, making any appropriate changes.
