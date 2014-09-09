@@ -1,9 +1,10 @@
 # Site settings
-title: RealHelloWorld
+title: Real Hello World
 locale: zh_TW
 description: The baby raising guide for geek
+url: "http://taiansu.github.io/RealHelloWorld"
 baseurl: /RealHelloWorld
-google_analytics: 
+google_analytics:
 
 # Build settings
 permalink:   /:title/

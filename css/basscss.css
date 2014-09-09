@@ -85,8 +85,8 @@ small, .small, .f5 {
 }
 @media screen and (min-width: 64em) {
   .h1 {
-    font-size: 6rem;
-    line-height: 8rem;
+    font-size: 4rem;
+    line-height: 5rem;
   }
 
   .h2 {

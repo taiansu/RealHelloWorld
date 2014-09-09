@@ -14,7 +14,7 @@
 */
 
 body {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Merriweather", "Palatino Linotype", "Book Antiqua", Palatino, 'Hiragino Sans GB', 'STHeitiTC-Light', 'HeitiTC Light', "WenQuanYi Zen Hei", "微軟正黑體", 'Microsoft JhengHei', 'Microsoft YaHei', 微软雅黑, sans-serif;
 }
 
 html, body {
@@ -263,24 +263,6 @@ h6 {
     font-size: 1.25rem;
   }
 
-  .h1,
-  h1 {
-    font-size: 3.25rem;
-    line-height: 4.5rem;
-  }
-
-  .h2,
-  h2 {
-    font-size: 2rem;
-    line-height: 2.5rem;
-  }
-
-  .h3,
-  h3 {
-    font-size: 1.5rem;
-    line-height: 2rem;
-  }
-
   .p,
   p,
   li {
@@ -310,18 +292,6 @@ h6 {
 }
 
 @media screen and (min-width: 64em) {
-  .h1,
-  h1 {
-    font-size: 4.5rem;
-    line-height: 6rem;
-  }
-
-  .h2,
-  h2 {
-    font-size: 3rem;
-    line-height: 3.5rem;
-  }
-
   .posts .post-meta {
     padding-bottom: .25rem;
   }
