@@ -2,8 +2,7 @@
 title: RealHelloWorld
 locale: zh_TW
 description: The baby raising guide for geek
-baseurl: "http://taiansu.github.io"
-url: /RealHelloWorld
+baseurl: /RealHelloWorld
 google_analytics: 
 
 # Build settings
