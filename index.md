@@ -15,18 +15,18 @@ title: Don't Panic
 
 # 懷孕
 
-* [購物清單](/shopping-list)
-* ~~[第一產程](/)~~
-* ~~[第二產程](/)~~
-* ~~[第三產程](/)~~
+* [購物清單](./shopping-list)
+* ~~[第一產程](./)~~
+* ~~[第二產程](./)~~
+* ~~[第三產程](./)~~
 
 ---
 
 # 教養
 
 * [Agile Family](http://tedxtaipei.com/2013/12/bruce-feiler-agile-programming-for-your-family)
-* ~~[參考書籍](/books)~~
-* ~~[出生第一週](/)~~
+* ~~[參考書籍](./books)~~
+* ~~[出生第一週](./)~~
 
 ---
 
